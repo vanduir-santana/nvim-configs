@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+/.pnp
+/.git
+
+# misc
+.DS_Store
+
+# arquivos de sessao do vim a de bkp
+.vim
+.bkp
+
+# arquivos de backup pg
+backup-*.tar
